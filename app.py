@@ -5,12 +5,12 @@ import altair as alt
 
 # Set the page configuration
 st.set_page_config(
-    page_title="FloodMonitor - Bangladesh Rainfall Monitoring",  # Set your desired page title
+    page_title="FloodMonitor - Rainfall Data for Bangladesh",  # Set your desired page title
     page_icon="🌊",                # Optional: Set a favicon
     layout="centered",             # Optional: Set the layout (centered or wide)
 )
 
-st.header("FloodMonitor — Bangladesh Rainfall Monitoring")
+st.header("FloodMonitor — Rainfall Data for Bangladesh")
 st.markdown("This app provides real-time rainfall data for Bangladesh, including historical rainfall data and latest rainfall data. It also provides water levels data, which is used to highlight areas with water levels that are at least a specified percentage of the danger level.")
 st.divider()
 
