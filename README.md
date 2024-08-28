@@ -1,5 +1,4 @@
 # Flood Monitor — Rainfall Data for Bangladesh
-[See it in action](https://floodmonitor.streamlit.app/)
 
 ## Description
 The project that aims to provide flood forecasting and early warning systems for communities prone to flooding.
